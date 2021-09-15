@@ -1,3 +1,6 @@
 # hello-world
-My first repository on GitHub!
-I love :coffee:, :pizza:, and :dancer:.
+public class Worker {
+	public void sayHello() {
+		System.out.println("hello world");
+	}
+}
